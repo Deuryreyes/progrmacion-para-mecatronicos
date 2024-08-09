@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1723211331 source:c:\users\deuri\documents\terea 7\snake\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+
